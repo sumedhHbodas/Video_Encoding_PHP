@@ -1,0 +1,33 @@
+.upload_button{
+    margin-top: 10px;
+    width: 180px;
+    padding: 10px;
+    font-size: 16px;
+    
+}
+.upload_button:hover{
+    color: aliceblue;
+    background-color: rgb(8, 86, 138);
+}
+.progress-bar {
+     height: 35px;
+     width: 250px;
+     border: 2px solid darkblue;
+     margin-top: 10px;
+}
+.progress-bar-fill {
+    height: 100%;
+    width: 25%;
+    background: lightblue;
+    display: flex;
+    align-items: center ;
+    transition: width 0.25s;
+}
+.progress-bar-text {
+    margin-left: 10px;
+    font-weight: bold ;
+
+}
+.Myuploads{
+    margin-top: 12px; 
+}
